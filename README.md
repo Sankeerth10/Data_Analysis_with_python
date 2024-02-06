@@ -9,8 +9,4 @@ List the key features of your project. For example:
 4. Predictive modeling for future crime trends
 
 # Libraries Used:
-Pandas
-Matplotlib
-Scikit-learn
-Numpy
-Seaborn
+Pandas, Matplotlib, Scikit-learn, Numpy,Seaborn.
